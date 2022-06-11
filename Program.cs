@@ -12,10 +12,11 @@ namespace CSharp
                 {"Comentários - Fundamentos", Comentarios.Executar},
                 {"Variáveis e Constantes - Fundamentos", VariaveisEConstantes.Executar},
                 {"Inferência - Fundamentos", Inferencia.Executar},
-                {"Interpolacao - Fundamentos", Interpolacao.Executar},
+                {"Interpolação - Fundamentos", Interpolacao.Executar},
                 {"Notação Ponto - Fundamentos", NotacaoPonto.Executar},
                 {"LendoDados - Fundamentos", LendoDados.Executar},
                 {"Formatando Número - Fundamentos", FormatandoNumero.Executar},
+                {"Conversões - Fundamentos", Conversoes.Executar},
 
             });
 
