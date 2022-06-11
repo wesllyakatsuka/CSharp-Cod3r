@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using CSharp.Fundamentos;
 
+
 namespace CSharp
 {
     class Program {
@@ -10,6 +11,8 @@ namespace CSharp
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
                 {"Comentários - Fundamentos", Comentarios.Executar},
                 {"Variáveis e Constantes - Fundamentos", VariaveisEConstantes.Executar},
+                {"Inferência - Fundamentos", Inferencia.Executar},
+                {"Interpolacao - Fundamentos", Interpolacao.Executar},
             });
 
                  central.SelecionarEExecutar();
