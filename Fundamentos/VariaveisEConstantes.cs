@@ -53,6 +53,9 @@ namespace CSharp.Fundamentos
             char letra = 'w';
             Console.WriteLine("Letra " + letra);
 
+            string texto = "Seja bem vindo ao Curso de C#!";
+            Console.WriteLine(texto);
+
             // pula 2 linhas
             Console.WriteLine();
             Console.WriteLine();
