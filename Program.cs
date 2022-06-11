@@ -15,6 +15,7 @@ namespace CSharp
                 {"Interpolacao - Fundamentos", Interpolacao.Executar},
                 {"Notação Ponto - Fundamentos", NotacaoPonto.Executar},
                 {"LendoDados - Fundamentos", LendoDados.Executar},
+                {"Formatando Número - Fundamentos", FormatandoNumero.Executar},
 
             });
 
