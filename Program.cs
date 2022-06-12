@@ -21,6 +21,9 @@ namespace CSharp
                 {"Operadores Relacionais - Fundamentos", OperadoresRelacionais.Executar},
                 {"Operadores Lógicos - Fundamentos", OperadoresLogicos.Executar},
                 {"Operadores de Atribuição - Fundamentos", OperadoresDeAtribuicao.Executar},
+                {"Operadores Unários - Fundamentos", OperadoresUnarios.Executar},
+                {"Operadores Ternários - Fundamentos", OperadorTernario.Executar},
+
 
             });
 
