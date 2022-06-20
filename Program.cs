@@ -57,6 +57,7 @@ namespace CSharp
                 {"Struct vs Classe - Classes e Métodos", StructVsClasse.Executar},
                 {"Atribuição Valor vs Referência - Classes e Métodos", ValorVsReferencia.Executar},
                 {"Parametros por Referencia(Ref/Out) - Classes e Métodos", ParametrosPorReferencia.Executar},
+                {"Parametro com Valor Padrão - Classes e Métodos", ParametroPadrao.Executar},
 
 
             });
