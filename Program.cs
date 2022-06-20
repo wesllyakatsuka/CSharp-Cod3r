@@ -52,6 +52,7 @@ namespace CSharp
                 {"Getters e Setters - Classes e Métodos", GetAndSet.Executar},
                 {"Propriedades - Classes e Métodos", Props.Executar},
                 {"Atributos ReadOnly - Classes e Métodos", ReadOnly.Executar},
+                {"Enum - Classes e Métodos", ExemplosEnum.Executar},
 
 
             });
