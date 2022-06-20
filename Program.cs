@@ -53,6 +53,7 @@ namespace CSharp
                 {"Propriedades - Classes e Métodos", Props.Executar},
                 {"Atributos ReadOnly - Classes e Métodos", ReadOnly.Executar},
                 {"Enum - Classes e Métodos", ExemplosEnum.Executar},
+                {"Struct - Classes e Métodos", ExemploStruct.Executar},
 
 
             });
