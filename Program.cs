@@ -54,6 +54,7 @@ namespace CSharp
                 {"Atributos ReadOnly - Classes e Métodos", ReadOnly.Executar},
                 {"Enum - Classes e Métodos", ExemplosEnum.Executar},
                 {"Struct - Classes e Métodos", ExemploStruct.Executar},
+                {"Struct vs Classe - Classes e Métodos", StructVsClasse.Executar},
 
 
             });
@@ -62,3 +63,4 @@ namespace CSharp
         }
     }
 }
+ 
