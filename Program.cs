@@ -11,7 +11,7 @@ namespace CSharp
     class Program {
         public static void Main(string[] args) {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
-                 // Fundamentos
+                // Fundamentos
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
                 {"Comentários - Fundamentos", Comentarios.Executar},
                 {"Variáveis e Constantes - Fundamentos", VariaveisEConstantes.Executar},
@@ -28,7 +28,7 @@ namespace CSharp
                 {"Operadores Unários - Fundamentos", OperadoresUnarios.Executar},
                 {"Operadores Ternários - Fundamentos", OperadorTernario.Executar},
 
-                //Estruturas de Controle
+                // Estruturas de Controle
                 {"Estrutura If - Estruturas de Controle", EstruturaIf.Executar},
                 {"Estrutura If-Else - Estruturas de Controle", EstruturaIfElse.Executar},
                 {"Estrutura If-Else-If - Estruturas de Controle", EstruturaIfElseIf.Executar},
