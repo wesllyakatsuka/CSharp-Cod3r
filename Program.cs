@@ -55,6 +55,7 @@ namespace CSharp
                 {"Enum - Classes e Métodos", ExemplosEnum.Executar},
                 {"Struct - Classes e Métodos", ExemploStruct.Executar},
                 {"Struct vs Classe - Classes e Métodos", StructVsClasse.Executar},
+                {"Atribuição Valor vs Referência - Classes e Métodos", ValorVsReferencia.Executar},
 
 
             });
