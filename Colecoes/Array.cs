@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CSharp.Colecoes
 {
-    class Array
+    class ColecoesArray
     {
         public static void Executar()
         {

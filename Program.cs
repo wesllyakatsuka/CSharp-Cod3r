@@ -61,7 +61,7 @@ namespace CSharp
                 {"Parametro com Valor Padrão - Classes e Métodos", ParametroPadrao.Executar},
 
                 // Coleções
-                {"Array - Coleções", Colecoes.Array.Executar},
+                {"Array - Coleções", ColecoesArray.Executar},
                 {"List - Coleções", ColecoesList.Executar},
                 {"Array List - Coleções", ColecoesArrayList.Executar},
                 {"Set - Coleções", ColecoesSet.Executar},
