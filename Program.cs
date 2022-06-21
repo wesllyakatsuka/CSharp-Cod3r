@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using CSharp.Fundamentos;
 using CSharp.EstruturasDeControle;
 using CSharp.ClassesEMetodos;
+using CSharp.Colecoes;
 
 
 namespace CSharp
@@ -58,6 +59,16 @@ namespace CSharp
                 {"Atribuição Valor vs Referência - Classes e Métodos", ValorVsReferencia.Executar},
                 {"Parametros por Referencia(Ref/Out) - Classes e Métodos", ParametrosPorReferencia.Executar},
                 {"Parametro com Valor Padrão - Classes e Métodos", ParametroPadrao.Executar},
+
+                // Coleções
+                {"Array - Coleções", Colecoes.Array.Executar},
+                {"List - Coleções", ColecoesList.Executar},
+                {"Array List - Coleções", ColecoesArrayList.Executar},
+                {"Set - Coleções", ColecoesSet.Executar},
+                {"Queue - Coleções", ColecoesQueue.Executar},
+                {"Igualdade - Coleções", Igualdade.Executar},
+                {"Stack - Coleções", ColecoesStack.Executar},
+                {"Dictionary - Coleções", ColecoesStack.Executar},
 
 
             });
