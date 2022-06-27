@@ -70,6 +70,7 @@ namespace CSharp
                 {"Stack - Coleções", ColecoesStack.Executar},
                 {"Dictionary - Coleções", ColecoesStack.Executar},
 
+                // Orientação Objetos
 
             });
 
