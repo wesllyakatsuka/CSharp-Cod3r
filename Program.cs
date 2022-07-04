@@ -5,6 +5,7 @@ using CSharp.Fundamentos;
 using CSharp.EstruturasDeControle;
 using CSharp.ClassesEMetodos;
 using CSharp.Colecoes;
+using CSharp.OO;
 
 
 namespace CSharp
@@ -68,10 +69,12 @@ namespace CSharp
                 {"Queue - Coleções", ColecoesQueue.Executar},
                 {"Igualdade - Coleções", Igualdade.Executar},
                 {"Stack - Coleções", ColecoesStack.Executar},
-                {"Dictionary - Coleções", ColecoesStack.Executar},
+                {"Dictionary - Coleções", ColecoesStack.Executar},     
 
                 // Orientação Objetos
-
+                {"Herança - Orientação a Objetos", Heranca.Executar},
+                {"Construtor This - Orientação a Objetos", ConstrutorThis.Executar},
+                  
             });
 
                  central.SelecionarEExecutar();
