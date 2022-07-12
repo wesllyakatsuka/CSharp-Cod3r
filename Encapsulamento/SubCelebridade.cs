@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+
 
 namespace Encapsulamento
 {
@@ -22,11 +21,12 @@ namespace Encapsulamento
         private protected string SegredoFamilia = "Sempre vaza!";
 
         // private é o padrão
-        bool TomaMuitaCocaCola = true;
+        readonly bool TomaMuitaCocaCola = true;
 
         public void MeusAcessos()
         {
             Console.WriteLine("SubClebridade...");
+
             Console.WriteLine(InfoPublica);
             Console.WriteLine(CorDoOlho);
             Console.WriteLine(NumeroCelular);

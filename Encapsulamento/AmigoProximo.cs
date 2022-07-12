@@ -8,7 +8,7 @@ namespace Encapsulamento
     {
         public readonly SubCelebridade amiga = new SubCelebridade();
 
-        public void MeusACessos()
+        public void MeusAcessos()
         {
             Console.WriteLine("AmigoProximo...");
 
