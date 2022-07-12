@@ -74,6 +74,7 @@ namespace CSharp
                 // Orientação Objetos
                 {"Herança - Orientação a Objetos", Heranca.Executar},
                 {"Construtor This - Orientação a Objetos", ConstrutorThis.Executar},
+                {"Encapsulamento - Orientação a Objetos", OO.Encapsulamento.Executar},
                   
             });
 
