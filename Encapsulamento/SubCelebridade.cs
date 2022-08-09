@@ -25,7 +25,8 @@ namespace Encapsulamento
 
         public void MeusAcessos()
         {
-            Console.WriteLine("SubClebridade...");
+            Console.WriteLine("     Class SubClebridade...");
+            Console.WriteLine("         Classe SubCelebridade - Método MeusAcessos()");
 
             Console.WriteLine(InfoPublica);
             Console.WriteLine(CorDoOlho);
@@ -33,6 +34,7 @@ namespace Encapsulamento
             Console.WriteLine(JeitoDeFalar);
             Console.WriteLine(SegredoFamilia);
             Console.WriteLine(TomaMuitaCocaCola);
+            Console.WriteLine("-------------------------------------------------");
 
         }
 

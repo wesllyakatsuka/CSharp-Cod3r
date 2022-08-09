@@ -3,10 +3,12 @@ using Encapsulamento;
 
 namespace CSharp.OO
 {
-    public class FilhoNaoReconhecido : SubCelebridade {
+    public class FilhoNaoReconhecido : SubCelebridade 
+    {
         public new void MeusAcessos()
         {
-            Console.WriteLine("FilhoNaoReconhecido...");
+            Console.WriteLine("     Class FilhoNaoReconhecido...");
+            Console.WriteLine("         Classe FilhoNaoReconhecido - Método MeusAcessos()");
 
             Console.WriteLine(InfoPublica);
             Console.WriteLine(CorDoOlho);
@@ -14,6 +16,7 @@ namespace CSharp.OO
             Console.WriteLine(JeitoDeFalar);
             //Console.WriteLine(SegredoFamilia);
             //Console.WriteLine(TomaMuitaCocaCola);
+            Console.WriteLine("-------------------------------------------------");
         }
     }
 
@@ -25,7 +28,8 @@ namespace CSharp.OO
 
         public void MeusAcessos()
         {
-            Console.WriteLine("AmigoDistante...");
+            Console.WriteLine("     Class AmigoDistante...");
+            Console.WriteLine("         Classe AmigoDistante - Método MeusAcessos()");
 
             Console.WriteLine(amiga.InfoPublica);
             //Console.WriteLine(CorDoOlho);
@@ -33,6 +37,7 @@ namespace CSharp.OO
             //Console.WriteLine(JeitoDeFalar);
             //Console.WriteLine(SegredoFamilia);
             //Console.WriteLine(TomaMuitaCocaCola);
+            Console.WriteLine("-------------------------------------------------");
         }
     }
 

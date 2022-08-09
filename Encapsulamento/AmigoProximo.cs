@@ -10,7 +10,8 @@ namespace Encapsulamento
 
         public void MeusAcessos()
         {
-            Console.WriteLine("AmigoProximo...");
+            Console.WriteLine("     Class AmigoProximo...");
+            Console.WriteLine("         Classe AmigoProximo - Método MeusAcessos()");
 
             Console.WriteLine(amiga.InfoPublica);
             //Console.WriteLine(amiga.CorDoOlho);
@@ -18,6 +19,7 @@ namespace Encapsulamento
             Console.WriteLine(amiga.JeitoDeFalar);
             //Console.WriteLine(amiga.SegredoFamilia);
             //Console.WriteLine(amiga.TomaMuitaCocaCola);
+            Console.WriteLine("-------------------------------------------------");
         }
     }
 }
