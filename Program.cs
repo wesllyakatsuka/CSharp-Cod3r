@@ -77,6 +77,7 @@ namespace CSharp
                 {"Encapsulamento - Orientação a Objetos", OO.Encapsulamento.Executar},
                 {"Polimorfismo - Orientação a Objetos", Polimorfismo.Executar},
                 {"Abstração - Orientação a Objetos", Abstract.Executar},
+                {"Interface - Orientação a Objetos", Interface.Executar},
                   
             });
 
